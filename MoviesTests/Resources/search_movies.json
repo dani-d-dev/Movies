@@ -1,0 +1,390 @@
+{
+  "page": 1,
+  "total_results": 31,
+  "total_pages": 2,
+  "results": [
+    {
+      "popularity": 65.755,
+      "id": 263115,
+      "video": false,
+      "vote_count": 14976,
+      "vote_average": 7.8,
+      "title": "Logan",
+      "release_date": "2017-02-28",
+      "original_language": "en",
+      "original_title": "Logan",
+      "genre_ids": [
+        28,
+        18,
+        878
+      ],
+      "backdrop_path": "/yEv8c6i79vk06sZDC3Z9D8HQLVV.jpg",
+      "adult": false,
+      "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+      "poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+    },
+    {
+      "popularity": 18.423,
+      "vote_count": 2329,
+      "video": false,
+      "poster_path": "/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+      "id": 399170,
+      "adult": false,
+      "backdrop_path": "/m1g7FDwVp1C9o0JZ4THDmLRCjDl.jpg",
+      "original_language": "en",
+      "original_title": "Logan Lucky",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        18
+      ],
+      "title": "Logan Lucky",
+      "vote_average": 6.7,
+      "overview": "Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.",
+      "release_date": "2017-08-17"
+    },
+    {
+      "popularity": 21.27,
+      "vote_count": 692,
+      "video": false,
+      "poster_path": "/fzYg3Drbnf4DtNftQdMBRMy2H5D.jpg",
+      "id": 297608,
+      "adult": false,
+      "backdrop_path": "/vUs64F9Lcb0GJrEZ15PpQ4VRaT7.jpg",
+      "original_language": "en",
+      "original_title": "The Taking of Deborah Logan",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "title": "The Taking of Deborah Logan",
+      "vote_average": 6.3,
+      "overview": "What starts as a poignant medical documentary about Deborah Logan's descent into Alzheimer's disease and her daughter's struggles as caregiver degenerates into a maddening portrayal of dementia at its most frightening, as hair-raising events begin to plague the family and crew and an unspeakable malevolence threatens to tear the very fabric of sanity from them all.",
+      "release_date": "2014-10-21"
+    },
+    {
+      "popularity": 4.203,
+      "id": 44010,
+      "video": false,
+      "vote_count": 6,
+      "vote_average": 6.1,
+      "title": "Logan",
+      "release_date": "2010-09-10",
+      "original_language": "en",
+      "original_title": "Logan",
+      "genre_ids": [
+        35,
+        18,
+        10751
+      ],
+      "backdrop_path": "/uK5Q69gshBK4GaT4EWPyvYydCgz.jpg",
+      "adult": false,
+      "overview": "A teen does everything he can to finish his younger brother's project when tragedy strikes.",
+      "poster_path": "/9Jhk48r4SRaUprLjaAnWeqfdWka.jpg"
+    },
+    {
+      "popularity": 11.558,
+      "id": 10803,
+      "video": false,
+      "vote_count": 549,
+      "vote_average": 6.7,
+      "title": "Logan's Run",
+      "release_date": "1976-06-23",
+      "original_language": "en",
+      "original_title": "Logan's Run",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "backdrop_path": "/rNWVdhRftbdJmXOlYtMd3UGtENT.jpg",
+      "adult": false,
+      "overview": "In the 23rd century, inhabitants of a domed city freely experience all of life's pleasures- but no one is allowed to live past 30. Citizens can try for a chance at being 'renewed' in a civic ceremony on their 30th birthday. Escape is the only other option.",
+      "poster_path": "/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg"
+    },
+    {
+      "popularity": 2.933,
+      "id": 78286,
+      "video": false,
+      "vote_count": 8,
+      "vote_average": 4.8,
+      "title": "The Kate Logan affair",
+      "release_date": "2010-10-15",
+      "original_language": "fr",
+      "original_title": "The Kate Logan affair",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "A young psychologically unstable young police woman named Kate Logan and a married Frenchman find themselves caught up in a dramatic twisted affair.",
+      "poster_path": "/uKO7avSmGg0NUTA9zCOH1i0xoiX.jpg"
+    },
+    {
+      "popularity": 2.244,
+      "vote_count": 5,
+      "video": false,
+      "poster_path": "/2JcNyQ1PinMD7VtbHqHSURkhuaF.jpg",
+      "id": 673229,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "en",
+      "original_title": "Making Logan",
+      "genre_ids": [
+        99
+      ],
+      "title": "Making Logan",
+      "vote_average": 8.6,
+      "overview": "This six-part documentary covers a variety of subjects, which at least give fans the opportunity to clarify that Dafne Keen is not the devil child she appears to be in the film.",
+      "release_date": "2017-05-23"
+    },
+    {
+      "popularity": 0.886,
+      "vote_count": 14,
+      "video": false,
+      "poster_path": null,
+      "id": 229801,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "en",
+      "original_title": "Logan",
+      "genre_ids": [
+        18,
+        27,
+        9648
+      ],
+      "title": "Logan",
+      "vote_average": 5.7,
+      "overview": "A lone man locked inside a dark room is violently interrogated about his identity. When his captors finally find out who he is, they realize that he isn't locked in with them, they are the ones locked in with him…",
+      "release_date": "2013-04-26"
+    },
+    {
+      "popularity": 0.932,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": null,
+      "id": 512274,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "en",
+      "original_title": "Travis Logan, D.A.",
+      "genre_ids": [
+        80,
+        18,
+        10770
+      ],
+      "title": "Travis Logan, D.A.",
+      "vote_average": 0,
+      "overview": "Sand devises a scheme to murder his former business partner and maintains his innocence throughout the trial, as he is prosecuted by District Attorney Travis Logan.",
+      "release_date": "1971-03-11"
+    },
+    {
+      "popularity": 1.834,
+      "id": 646643,
+      "video": true,
+      "vote_count": 0,
+      "vote_average": 0,
+      "title": "KSI vs. Logan Paul 2",
+      "release_date": "2019-11-09",
+      "original_language": "en",
+      "original_title": "KSI vs. Logan Paul 2",
+      "genre_ids": [],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "KSI vs. Logan Paul 2 is an upcoming professional boxing match between the British YouTuber Olajide \"JJ\" Olatunji (known online as KSI), and American YouTuber, Logan Paul. Both fighters will be making their professional boxing debuts. The fight constitutes a rematch of the previous white-collar amateur boxing fight between the two, which ended in a majority draw. The fight is set to take place at the Staples Center, Los Angeles on 9 November 2019.",
+      "poster_path": "/zMFtNjlbCE3C9ehzIEkn9SQmTu3.jpg"
+    },
+    {
+      "popularity": 1.896,
+      "vote_count": 5,
+      "video": false,
+      "poster_path": "/c2ShVPfeR39S6A3j70vqUfZVG08.jpg",
+      "id": 22519,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "en",
+      "original_title": "The Two Worlds of Jennie Logan",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "title": "The Two Worlds of Jennie Logan",
+      "vote_average": 5.8,
+      "overview": "Hoping to repair their marriage, Jennie Logan and her husband move into a beautiful Victorian manor. When Jennie tries on an antique dress she finds in the attic, she is transported back one hundred years, where she meets the house's previous owner, David. As her feelings for David grow, it becomes clear that Jennie is not only torn between two men and two times, but she also faces danger in both worlds.",
+      "release_date": "1979-10-31"
+    },
+    {
+      "popularity": 0.86,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": null,
+      "id": 347053,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "en",
+      "original_title": "Mr. Logan, U.S.A.",
+      "genre_ids": [
+        37,
+        10752
+      ],
+      "title": "Mr. Logan, U.S.A.",
+      "vote_average": 0,
+      "overview": "Silent drama......",
+      "release_date": "1918-09-08"
+    },
+    {
+      "popularity": 0.62,
+      "id": 713950,
+      "video": false,
+      "vote_count": 1,
+      "vote_average": 4,
+      "title": "Mark Logan",
+      "release_date": "",
+      "original_language": "en",
+      "original_title": "Mark Logan",
+      "genre_ids": [
+        16,
+        18
+      ],
+      "backdrop_path": "/6RVdV6geVAjuFyX390hIZcuEnMm.jpg",
+      "adult": false,
+      "overview": "In an Italian province of Calabria. Here we meet Marcello, his brother Paolo and their father, who have lost everything except hope of a better life on the other side of the Atlantic in America, where their uncle had emigrated to the year before last. Leaving their homeland and memories behind, Paolo and Giancarlo set sail for the New World. During their voyage, Marcello meets a daring orphan from Naples by the name of Antonia who will constantly lend him courage through thick and thin.",
+      "poster_path": "/2hp8ZLZuq7epKdCRX9DPvHlfR1i.jpg"
+    },
+    {
+      "popularity": 0.6,
+      "id": 446207,
+      "video": false,
+      "vote_count": 3,
+      "vote_average": 4.3,
+      "title": "Jack Logan",
+      "release_date": "2016-04-30",
+      "original_language": "en",
+      "original_title": "Jack Logan",
+      "genre_ids": [],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "In 1920 the last of a band of traveling gypsies are killed to make way for the development of St. George Island. Now after 96 years, life is breathed back into an ancient terror. With only vengeance in mind, all trespassers on St. George Island are murdered in gruesome fashion .",
+      "poster_path": "/hJYdhkZmWvtDHfBkd0YFHN4P11n.jpg"
+    },
+    {
+      "popularity": 0.6,
+      "id": 467721,
+      "video": false,
+      "vote_count": 0,
+      "vote_average": 0,
+      "title": "Giuseppi Logan",
+      "release_date": "1966-01-01",
+      "original_language": "en",
+      "original_title": "Giuseppi Logan",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "Some of the problems facing Giuseppi are juxtaposed with his music, Satan's Dance. The pictures depict the opposite view which is fortuitously any sunny day in the park with his wife and son. The joy of the boy is the inspiration of the father. A straight-forward, simple documentary.",
+      "poster_path": null
+    },
+    {
+      "popularity": 0.728,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/yVqWnyVYuy0EBYwgHkWAGUiXtEE.jpg",
+      "id": 270585,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "it",
+      "original_title": "Agente Logan - missione Ypotron",
+      "genre_ids": [
+        28,
+        12,
+        80,
+        878,
+        53
+      ],
+      "title": "Agente Logan - missione Ypotron",
+      "vote_average": 0,
+      "overview": "Agent Lemmy Logan is investigating the case of a missing NASA scientist and discovers that an ex nazi is developing  a new super weapon.",
+      "release_date": "1966-08-28"
+    },
+    {
+      "popularity": 3.71,
+      "id": 38202,
+      "video": false,
+      "vote_count": 18,
+      "vote_average": 5.8,
+      "title": "Logan's War: Bound by Honor",
+      "release_date": "1998-11-01",
+      "original_language": "en",
+      "original_title": "Logan's War: Bound by Honor",
+      "genre_ids": [
+        28,
+        12,
+        10770
+      ],
+      "backdrop_path": "/dHKK8ALYAFvjNLwkqV3aOMDCa2H.jpg",
+      "adult": false,
+      "overview": "Chuck Norris stars as martial arts extraordinaire Jake Fallon, who, after the death of his brother and sister-in-law, adopts (and trains) his orphaned nephew. Logan (Eddie Cibrian, TV's Invasion). After fifteen years of careful instruction, Logan is determined to avenge his parents Death... And, he'll need Uncle Jake's help to do it.",
+      "poster_path": "/d3Nvpj6mVG8lhGufU1lcLPY9UlO.jpg"
+    },
+    {
+      "popularity": 0.698,
+      "id": 471594,
+      "video": true,
+      "vote_count": 0,
+      "vote_average": 0,
+      "title": "Johnny Logan - We All Need Love",
+      "release_date": "",
+      "original_language": "en",
+      "original_title": "Johnny Logan - We All Need Love",
+      "genre_ids": [
+        10402
+      ],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "Johnny Logan, the man, the voice, the performer – is giving his all in this high powered performance in front of an enthusiastic crowd. These concerts from his 2003 European tour takes you on a musical journey which more then anything else establishes Johnny Logan as one of the best performers of his time. Get behind the charismatic artist as he relives some of the private and public highlights of his more then 20 years in showbiz. Unplugged and relaxed he invites you to meet him on the other side of midnight in this very unique and revealing show. 2 Disc set including a DVD featuring Johnny live in concert, and an in depth interview.",
+      "poster_path": "/lXao0GTvKIlftBZmtjPEttWr1Qh.jpg"
+    },
+    {
+      "popularity": 0.6,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": null,
+      "id": 310652,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "en",
+      "original_title": "Andrew Logan Kisses The Glitterati",
+      "genre_ids": [],
+      "title": "Andrew Logan Kisses The Glitterati",
+      "vote_average": 0,
+      "overview": "An experimental short film by Derek Jarman enlivens urban surrounding with the presence of a human being.",
+      "release_date": "1972-01-01"
+    },
+    {
+      "popularity": 0.848,
+      "id": 413749,
+      "video": false,
+      "vote_count": 4,
+      "vote_average": 7.8,
+      "title": "Logan's Run",
+      "release_date": "",
+      "original_language": "en",
+      "original_title": "Logan's Run",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        878,
+        53
+      ],
+      "backdrop_path": null,
+      "adult": false,
+      "overview": "A remake of the dystopian 1976 science fiction film Logan’s Run.",
+      "poster_path": null
+    }
+  ]
+}
