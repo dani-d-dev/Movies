@@ -1,0 +1,31 @@
+# .circleci/config.yml
+version: 2.1
+jobs:
+  build-and-test:
+    macos:
+      xcode: 11.2.1
+    environment:
+      FL_OUTPUT_DIR: output
+
+    steps:
+      - checkout
+      - run:
+          name: Install CocoaPods
+          command: pod install --verbose
+
+      - run:
+          name: Build and run tests
+          command: fastlane scan
+          environment:
+            SCAN_DEVICE: iPhone 8
+            SCAN_SCHEME: MoviesTests
+
+      - store_test_results:
+          path: output/scan
+      - store_artifacts:
+          path: output
+
+workflows:
+  build-test:
+    jobs:
+      - build-and-test
