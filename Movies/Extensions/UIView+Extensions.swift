@@ -3,7 +3,7 @@
 //  PracticeBoard
 //
 //  Created by Daniel Daverio on 05/10/2020.
-//  Copyright © 2020 com.home.PracticeBoard. All rights reserved.
+//  Copyright © 2020 com.home.Movies. All rights reserved.
 //
 
 import Foundation
