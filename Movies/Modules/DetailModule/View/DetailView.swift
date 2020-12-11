@@ -9,7 +9,7 @@
 import SnapKit
 import UIKit
 
-class DetailView: UIViewController {
+final class DetailView: UIViewController {
     private lazy var collectionViewDataSource = { CollectionViewDataSource() }()
 
     private lazy var collectionViewLayout: UICollectionViewFlowLayout = {

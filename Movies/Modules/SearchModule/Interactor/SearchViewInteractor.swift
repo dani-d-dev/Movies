@@ -9,7 +9,7 @@
 import Foundation
 import RxSwift
 
-class SearchViewInteractor: SearchModuleInteractorInputProtocol {
+final class SearchViewInteractor: SearchModuleInteractorInputProtocol {
     internal weak var presenter: SearchModuleInteractorOutputProtocol?
     internal var service: ApiClient?
     internal var lastSearch: String?

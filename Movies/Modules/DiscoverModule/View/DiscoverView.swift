@@ -9,7 +9,7 @@
 import SnapKit
 import UIKit
 
-class DiscoverView: UIViewController {
+final class DiscoverView: UIViewController {
     
     // MARK: - Properties
 

@@ -8,7 +8,7 @@
 
 import Foundation
 
-class DiscoverViewPresenter: DiscoverModulePresenterProtocol {
+final class DiscoverViewPresenter: DiscoverModulePresenterProtocol {
     
     internal weak var view: DiscoverModuleViewProtocol?
     internal var interactor: DiscoverModuleInteractorInputProtocol?

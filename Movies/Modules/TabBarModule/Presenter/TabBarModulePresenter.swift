@@ -5,7 +5,7 @@
 
 import Foundation
 
-class TabBarModulePresenter: TabBarModulePresenterProtocol
+final class TabBarModulePresenter: TabBarModulePresenterProtocol
 {
     weak var view: TabBarModuleViewProtocol?
     internal var interactor: TabBarModuleInteractorInputProtocol?

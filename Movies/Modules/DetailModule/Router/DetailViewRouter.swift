@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class DetailViewRouter: DetailModuleRouterProtocol {
+final class DetailViewRouter: DetailModuleRouterProtocol {
     static func buildModule(movie: Movie?) -> UIViewController {
         let vc = DetailView(nibName: DetailView.className, bundle: nil)
         let presenter = DetailViewPresenter(view: vc)

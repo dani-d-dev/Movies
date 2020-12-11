@@ -8,7 +8,7 @@
 
 import Foundation
 
-class DetailViewPresenter: DetailModulePresenterProtocol {
+final class DetailViewPresenter: DetailModulePresenterProtocol {
     internal weak var view: DetailModuleViewProtocol?
     internal var interactor: DetailModuleInteractorProtocol?
     internal var router: DetailModuleRouterProtocol?

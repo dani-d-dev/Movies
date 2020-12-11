@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class TabBarModuleRouter: TabBarModuleRouterProtocol {
+final class TabBarModuleRouter: TabBarModuleRouterProtocol {
     
     static func buildModule(using subModules: [TabBarViewProtocol]) -> UIViewController {
         let tbc = TabBarView(nibName: TabBarView.className, bundle: nil)

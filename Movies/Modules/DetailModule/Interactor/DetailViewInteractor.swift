@@ -8,7 +8,7 @@
 
 import Foundation
 
-class DetailViewInteractor: DetailModuleInteractorProtocol {
+final class DetailViewInteractor: DetailModuleInteractorProtocol {
     internal var item: Movie?
 
     init(item: Movie?) {

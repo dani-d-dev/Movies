@@ -9,7 +9,7 @@
 import Foundation
 import RxSwift
 
-class DiscoverViewInteractor: DiscoverModuleInteractorInputProtocol {
+final class DiscoverViewInteractor: DiscoverModuleInteractorInputProtocol {
     internal weak var presenter: DiscoverModuleInteractorOutputProtocol?
     internal var service: ApiClient?
     private var disposeBag: DisposeBag

@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class DiscoverViewRouter: DiscoverModuleRouterProtocol, TabBarViewProtocol {
+final class DiscoverViewRouter: DiscoverModuleRouterProtocol, TabBarViewProtocol {
     
     func buildModule() -> UIViewController {
         let vc = DiscoverView(nibName: DiscoverView.className, bundle: nil)

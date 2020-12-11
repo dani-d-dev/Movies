@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TabBarView: UITabBarController, TabBarModuleViewProtocol {
+final class TabBarView: UITabBarController, TabBarModuleViewProtocol {
     internal var presenter: TabBarModulePresenterProtocol?
     
     override func viewDidLoad() {

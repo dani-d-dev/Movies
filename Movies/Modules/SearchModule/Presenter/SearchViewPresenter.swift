@@ -8,7 +8,7 @@
 
 import Foundation
 
-class SearchViewPresenter: SearchModulePresenterProtocol {
+final class SearchViewPresenter: SearchModulePresenterProtocol {
     
     internal weak var view: SearchModuleViewProtocol?
     internal var interactor: SearchModuleInteractorInputProtocol?

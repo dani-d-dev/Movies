@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class SearchViewRouter: SearchModuleRouterProtocol, TabBarViewProtocol {
+final class SearchViewRouter: SearchModuleRouterProtocol, TabBarViewProtocol {
     
     func buildModule() -> UIViewController {
         let vc = SearchView(nibName: SearchView.className, bundle: nil)

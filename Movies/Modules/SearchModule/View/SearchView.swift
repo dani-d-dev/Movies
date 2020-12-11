@@ -9,7 +9,7 @@
 import SnapKit
 import UIKit
 
-class SearchView: UIViewController {
+final class SearchView: UIViewController {
     
     // MARK: - Properties
 
