@@ -8,6 +8,7 @@
 
 import Foundation
 import UIKit
+import Firebase
 
 final class AppCoordinator {
     private let window: UIWindow!
@@ -18,10 +19,10 @@ final class AppCoordinator {
     }
 
     func initialize() {
-        // TODO: Setup dependencies
-
+        // Setup dependencies
+        FirebaseApp.configure()
+        // Setup themes
         Constants.configureTheme()
-
         // Setup root module
         window.rootViewController = TabBarModuleRouter.buildModule(using: [DiscoverViewRouter(), SearchViewRouter()])
     }

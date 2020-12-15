@@ -12,6 +12,7 @@ end
 
 target 'Movies' do
   shared_pods
+  pod 'Firebase/Analytics'
 end
 
 target 'MoviesTests' do
