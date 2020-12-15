@@ -42,6 +42,7 @@ final class SearchViewInteractor: SearchModuleInteractorInputProtocol {
 
     private func fetch(movie: String, page: Int) {
         lastSearch = movie
+        AnalyticsManager.instance.track(event: .searchMovie(name: movie))
 
         service?.search(movie: movie, page: page).subscribe(onSuccess: { [weak self] result in
             guard !result.results.isEmpty else {

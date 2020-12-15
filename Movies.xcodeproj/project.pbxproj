@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9023F1232588BA040015FF45 /* AnalyticsServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9023F1222588BA040015FF45 /* AnalyticsServiceProtocol.swift */; };
+		9023F1252588BE2A0015FF45 /* AnalyticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9023F1242588BE2A0015FF45 /* AnalyticsManager.swift */; };
+		9023F1272588BE5D0015FF45 /* FirebaseAnalyticsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9023F1262588BE5D0015FF45 /* FirebaseAnalyticsService.swift */; };
 		90476F9D256D032200C503C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90476F9C256D032200C503C8 /* Assets.xcassets */; };
 		90476FA0256D032200C503C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90476F9E256D032200C503C8 /* LaunchScreen.storyboard */; };
 		90477001256D05E100C503C8 /* MovieViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90476FB6256D05DE00C503C8 /* MovieViewModel.swift */; };
@@ -86,6 +89,9 @@
 		178FBD5E18E08EE3CAB1CD45 /* Pods-Movies.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movies.debug.xcconfig"; path = "Target Support Files/Pods-Movies/Pods-Movies.debug.xcconfig"; sourceTree = "<group>"; };
 		5737B4B23F6D8BFE2E8A668C /* Pods_Movies.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Movies.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E48E3C63B8DBD9AA0664BA0 /* Pods-Movies.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movies.release.xcconfig"; path = "Target Support Files/Pods-Movies/Pods-Movies.release.xcconfig"; sourceTree = "<group>"; };
+		9023F1222588BA040015FF45 /* AnalyticsServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsServiceProtocol.swift; sourceTree = "<group>"; };
+		9023F1242588BE2A0015FF45 /* AnalyticsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsManager.swift; sourceTree = "<group>"; };
+		9023F1262588BE5D0015FF45 /* FirebaseAnalyticsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseAnalyticsService.swift; sourceTree = "<group>"; };
 		90476F90256D032000C503C8 /* Movies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Movies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90476F9C256D032200C503C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90476F9F256D032200C503C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -174,6 +180,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9023F1212588B7760015FF45 /* Analytics */ = {
+			isa = PBXGroup;
+			children = (
+				9023F1222588BA040015FF45 /* AnalyticsServiceProtocol.swift */,
+				9023F1242588BE2A0015FF45 /* AnalyticsManager.swift */,
+				9023F1262588BE5D0015FF45 /* FirebaseAnalyticsService.swift */,
+			);
+			path = Analytics;
+			sourceTree = "<group>";
+		};
 		90476F87256D032000C503C8 = {
 			isa = PBXGroup;
 			children = (
@@ -197,6 +213,7 @@
 		90476F92256D032000C503C8 /* Movies */ = {
 			isa = PBXGroup;
 			children = (
+				9023F1212588B7760015FF45 /* Analytics */,
 				90F91A222583710C0085FFCE /* GoogleService-Info.plist */,
 				90476FA1256D032200C503C8 /* Info.plist */,
 				90476F9C256D032200C503C8 /* Assets.xcassets */,
@@ -839,6 +856,7 @@
 				90477021256D05E100C503C8 /* ApiClient.swift in Sources */,
 				90477023256D05E100C503C8 /* MovieApiClient.swift in Sources */,
 				90477014256D05E100C503C8 /* DetailViewPresenter.swift in Sources */,
+				9023F1272588BE5D0015FF45 /* FirebaseAnalyticsService.swift in Sources */,
 				90477012256D05E100C503C8 /* TabBarModuleInteractor.swift in Sources */,
 				90477004256D05E100C503C8 /* TabBarViewProtocol.swift in Sources */,
 				90477020256D05E100C503C8 /* MovieApiRouter.swift in Sources */,
@@ -848,10 +866,12 @@
 				90477013256D05E100C503C8 /* TabBarModuleRouter.swift in Sources */,
 				90477029256D05E100C503C8 /* Movie.swift in Sources */,
 				90477011256D05E100C503C8 /* TabBarModuleProtocols.swift in Sources */,
+				9023F1232588BA040015FF45 /* AnalyticsServiceProtocol.swift in Sources */,
 				90477025256D05E100C503C8 /* PlaceholderView.swift in Sources */,
 				90477017256D05E100C503C8 /* DetailModuleProtocols.swift in Sources */,
 				9047701F256D05E100C503C8 /* SearchViewRouter.swift in Sources */,
 				9047700D256D05E100C503C8 /* DiscoverViewRouter.swift in Sources */,
+				9023F1252588BE2A0015FF45 /* AnalyticsManager.swift in Sources */,
 				90477009256D05E100C503C8 /* DiscoverView.swift in Sources */,
 				90477003256D05E100C503C8 /* SearchController.swift in Sources */,
 				9047700C256D05E100C503C8 /* DiscoverViewInteractor.swift in Sources */,

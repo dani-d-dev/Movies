@@ -20,7 +20,9 @@ final class AppCoordinator {
 
     func initialize() {
         // Setup dependencies
-        FirebaseApp.configure()
+        AnalyticsManager.instance.add(services: [FirebaseAnalyticsService()])
+        AnalyticsManager.instance.initialize()
+        
         // Setup themes
         Constants.configureTheme()
         // Setup root module
