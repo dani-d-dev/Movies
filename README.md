@@ -15,3 +15,7 @@ Minimal dependencies used in the project for easier implementation and to avoid 
 - RxSwift
 - SnapKit
 - Kingfisher
+
+# IMPORTANT NOTE
+
+In order to work properly a new api key should be provided as an environment key named: "api_key"
